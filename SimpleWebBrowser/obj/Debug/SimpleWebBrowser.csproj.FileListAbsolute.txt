@@ -1,0 +1,9 @@
+C:\Users\dwein\Desktop\DanielWeinertLabDecipher\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.config
+C:\Users\dwein\Desktop\DanielWeinertLabDecipher\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe
+C:\Users\dwein\Desktop\DanielWeinertLabDecipher\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.pdb
+C:\Users\dwein\Desktop\DanielWeinertLabDecipher\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\dwein\Desktop\DanielWeinertLabDecipher\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+C:\Users\dwein\Desktop\DanielWeinertLabDecipher\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.Cache
+C:\Users\dwein\Desktop\DanielWeinertLabDecipher\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
+C:\Users\dwein\Desktop\DanielWeinertLabDecipher\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb
+C:\Users\dwein\Desktop\DanielWeinertLabDecipher\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Form1.resources
